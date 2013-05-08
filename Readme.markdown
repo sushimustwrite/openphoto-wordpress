@@ -4,16 +4,17 @@
 
 #### Installation
 
-To install this plugin just drag the openphoto-wordphp folder and the file openphoto-wordpress.php into your `wp-content/plugins` directory.
+To install this plugin drag the openphoto-wordphp folder and the file openphoto-wordpress.php into your `wp-content/plugins` directory. You can also download the plugin from <a href="https://wordpress.org/extend/plugins/openphoto/">the WordPress plugin directory</a>.
 
 #### Connecting WordPress to OpenPhoto
 
-You'll need to go to *Settings->OpenPhoto* and enter the name of your OpenPhoto url. This is something like *http://current.openphoto.me*.
+Go to *Settings->OpenPhoto* and enter the name of your OpenPhoto URL. This is something like *http://current.openphoto.me*.
 
 <img src="http://i.imgur.com/ywRQb.png">
 
-Clicking *Save Changes* will take you to your OpenPhoto site. You'll need to login, create an app and grant your blog access to it. Once complete you'll be redirected back to your WordPress site.
+Clicking *Save Changes* will take you to your OpenPhoto site. Log in, create an app through your Settings page, and grant your blog access to that app. Once complete you'll be redirected back to your WordPress site.
 
 #### Adding photos into your blog posts
 
-Click the media icon like you normally would and then select the *OpenPhoto* tab. Here you'll be able to filter by tags and select the photo to embed into your post.
+Click the Add Media icon like you normally would and then select the *OpenPhoto* tab. Here you can filter by tags and select the photo to embed into your post.
+
